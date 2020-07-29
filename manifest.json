@@ -1,0 +1,38 @@
+{
+  "name": "Kunci Jawaban",
+  "short_name": "Kunci Jawaban",
+  "start_url": "https://www.kuncijawaban.net/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#4067b5",
+  "description": "Kumpulan Kunci Jawaban dan Pembahasan Soal-soal",
+  "icons": [{
+    "src": "http://4.bp.blogspot.com/-ya7YDQJJKCQ/XyDd_FapfbI/AAAAAAAAAhs/ESDR1osQI_gDVshonjNxrlbvvaDOi0L9QCK4BGAYYCw/s400/Kunci%2BJawaban%2B48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "http://4.bp.blogspot.com/-AkJsOwlQJMM/XyDd0gVX6KI/AAAAAAAAAhg/fy2PhhovP6EhZQDs_6xHJw4CislidCj1wCK4BGAYYCw/s400/Kunci%2BJawaban%2B72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "http://2.bp.blogspot.com/-we8iHGfm5cY/XyDdqIxTUQI/AAAAAAAAAhU/B4bFzsTlGnMmSNBRIECkBnK88-e7tsS6QCK4BGAYYCw/s400/Kunci%2BJawaban%2B96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "http://3.bp.blogspot.com/-a84fl68t1kM/XyDdfBasW4I/AAAAAAAAAhI/9MmcVA6nZuIIsqgflDUq4iMkb3x8Gv3WwCK4BGAYYCw/s400/Kunci%2BJawaban%2B144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "http://4.bp.blogspot.com/--n85quFh3pU/XyDdUZZMNiI/AAAAAAAAAg8/MBOATdBu9qAeaprEfUV6gaMH0_EZ1QhwACK4BGAYYCw/s400/Kunci%2BJawaban%2B168.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "http://1.bp.blogspot.com/-6nF1Xwh_UQs/XyDdFjMQJXI/AAAAAAAAAg0/EAtbi3vuIB0_zxsWEfHnlY5IrSwPHBSBwCK4BGAYYCw/s400/Kunci%2BJawaban%2B192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-EATD0Omr4S0/XyDcdQyDb3I/AAAAAAAAAgo/B7kBgDbZNyMb_RaWostcad_U4IB7MIq_QCK4BGAYYCw/s1600/Kunci%2BJawaban%2B512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
